@@ -1,0 +1,12 @@
+runtime: python38
+#threadsafe: True
+#
+#handlers:
+#- url: /
+#  script: auto
+#- url: /.*
+#  script: auto
+#
+#env_variables:
+#  MODEL_NAME: 'babyweight'
+#  VERSION_NAME: 'dnn'
